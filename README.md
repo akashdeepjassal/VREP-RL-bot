@@ -2,7 +2,7 @@
 Reinforcement Learning in Vrep
 # RL-Car
 
-This project implements OpenAI's gym like interface for V-Rep to train reinforecement learning aggents.
+This project implements OpenAI's gym like interface for V-Rep to train reinforecement learning agents.
 
 Following two experiments were modeled on the aforementioned environment using Deep Q-Networks (DQN) in Keras,
 
